@@ -1,0 +1,6 @@
+integer=int(input())
+string=input()# type casting is not done because by default an input is taken as string
+char=input()#this is also a string but char means one letter string
+print(integer)
+print(string)
+print(char)
